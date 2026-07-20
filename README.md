@@ -28,9 +28,14 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 
 ## Languages
 
-| Language                                                                           | Focus                               |
-| ---------------------------------------------------------------------------------- | ----------------------------------- |
-| <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | Smart Contract Security / DeFi      |
-| <img height="20" src="https://img.shields.io/badge/-Rust-orange?style=flat" />     | Systems / Blockchain Development    |
-| <img height="20" src="https://img.shields.io/badge/-Go-00ADD8?style=flat" />       | Blockchain Infrastructure / Backend |
-| <img height="20" src="https://img.shields.io/badge/-Noir-000000?style=flat" />     | Zero-Knowledge Proofs               |
+| Language                                                                           | Focus                            |
+| ---------------------------------------------------------------------------------- | -------------------------------- |
+| <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | Smart Contract Security / DeFi   |
+| <img height="20" src="https://img.shields.io/badge/-Rust-orange?style=flat" />     | Systems / Blockchain Development |
+
+### Learning
+
+| Language                                                                       | Focus                               |
+| ------------------------------------------------------------------------------ | ----------------------------------- |
+| <img height="20" src="https://img.shields.io/badge/-Go-00ADD8?style=flat" />   | Blockchain Infrastructure / Backend |
+| <img height="20" src="https://img.shields.io/badge/-Noir-000000?style=flat" /> | Zero-Knowledge Proofs               |
