@@ -19,6 +19,13 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 | N/A         | N/A  | N/A     | N/A      | N/A               | N/A      |
 | N/A         | N/A  | N/A     | N/A      | N/A               | N/A      |
 
+--
+
+## Stats
+
+| Projects | Critical | High | Medium | Low | Info |
+| -------- | -------- | ---- | ------ | --- | ---- |
+| <img height="20" src="https://img.shields.io/badge/Projects-2-6e7681?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Critical-0-8B0000?style=flat" /> | <img height="20" src="https://img.shields.io/badge/High-0-red?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Medium-0-orange?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Low-1-yellow?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Info-1-blue?style=flat" /> |
 
 ## Languages
 
