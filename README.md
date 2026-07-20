@@ -9,7 +9,8 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 | Private  | N/A  | Low           | [Cantina](https://cantina.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Unique-2ea043?style=flat" /> |
 | Private  | N/A  | Informational | [Cantina](https://cantina.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Unique-2ea043?style=flat" /> |
 
-### Public Competitions
+---
+## Audit Competitions
 
 | Competition | Date | Ranking | Findings | Links of Interest | Language |
 | ----------- | ---- | ------- | -------- | ----------------- | -------- |
