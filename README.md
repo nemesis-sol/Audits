@@ -19,7 +19,6 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 | N/A         | N/A  | N/A     | N/A      | N/A               | N/A      |
 | N/A         | N/A  | N/A     | N/A      | N/A               | N/A      |
 
---
 
 ## Stats
 
