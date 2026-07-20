@@ -18,13 +18,6 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 | N/A         | N/A  | N/A     | N/A      | N/A               | N/A      |
 | N/A         | N/A  | N/A     | N/A      | N/A               | N/A      |
 
-## Other Web3 Security Experience
-
-| Experience                       | Description                                                                                     | Language |
-| -------------------------------- | ----------------------------------------------------------------------------------------------- | -------- |
-| Smart Contract Security Research | Independent research and vulnerability analysis across DeFi and Web3 protocols                  | Solidity |
-| Audit Competitions Preparation   | Research and analysis of complex DeFi protocols and smart contract systems                      | Solidity |
-| Security Research                | Ongoing exploration of smart contract vulnerabilities, protocol design flaws and attack vectors | Solidity |
 
 ## Languages
 
