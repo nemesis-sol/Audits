@@ -8,12 +8,12 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 | -------- | ---- | -------- | -------- | -------- | ------ |
 | Private | 05/05/26 | Low | [Cantina](https://cantina.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Unique-2ea043?style=flat" /> |
 | Private | 01/06/26 | Informational | [Cantina](https://cantina.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Unique-2ea043?style=flat" /> |
-| Celo | 28/08/26 | Medium | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
-| Celo | 03/09/26 | High | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
-| Celo | 04/09/26 | High | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
-| Celo | 04/09/26 | Medium | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
-| Celo | 07/09/26 | Critical | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
-| Celo | 09/09/26 | Medium | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
+| Private | 28/08/26 | Medium | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
+| Private | 03/09/26 | High | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
+| Private | 04/09/26 | High | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
+| Private | 04/09/26 | Medium | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
+| Private | 07/09/26 | Critical | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
+| Private | 09/09/26 | Medium | [Remedy](https://r.xyz/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> | <img height="20" src="https://img.shields.io/badge/Valid-Duplicate-2ea043?style=flat" /> |
 
 ### Findings
 
