@@ -20,7 +20,7 @@ Feel free to reach out to me here: [0xNemesisX Portfolio](https://0xnemesisx.xyz
 
 | Competition | Date | Ranking | Findings | Links of Interest | Language |
 | ----------- | ---- | ------- | -------- | ----------------- | -------- |
-| Firelight - Immunefi | 29/08/26  | N/A | 1 Valid / Duplicate | [Immunefi](https://immunefi.com/audit-competition/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> |
+| Firelight - Immunefi | 29/08/26  | N/A | 1 Low / Duplicate | [Immunefi](https://immunefi.com/audit-competition/) | <img height="20" src="https://img.shields.io/badge/-Solidity-8A2BE2?style=flat" /> |
 | N/A | N/A | N/A | N/A | N/A | N/A |
 | N/A | N/A | N/A | N/A | N/A | N/A |
 | N/A | N/A | N/A | N/A | N/A | N/A |
